@@ -39,6 +39,8 @@ or something else please do the following step.
 
 Go to your django/db/backends/mysql installation dir. Check your path in the error message.
 
+source : https://stackoverflow.com/questions/55657752/django-installing-mysqlclient-error-mysqlclient-1-3-13-or-newer-is-required
+
 I'm using pipenv so my path is:
 
     /home/username/.local/share/virtualenvs/project-env/lib/python3.7/site-packages/django/db/backends/mysql

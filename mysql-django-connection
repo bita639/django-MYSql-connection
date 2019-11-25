@@ -6,7 +6,7 @@ pip install pymysql
 
 pip install mysql-python
 
-Copy and past these 2 line in __init__.py file
+Copy and past these 2 line in __init__.py file. please past this in the __init__.py which is inside the project folder not in the app folder.
 
 import pymysql
 
